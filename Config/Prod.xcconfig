@@ -1,0 +1,3 @@
+#include "Base.xcconfig"
+
+BOOKIFY_BASE_URL = https:/$()/bookify-backend-1qs6.onrender.com
